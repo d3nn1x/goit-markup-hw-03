@@ -184,7 +184,6 @@ button {
 /* ======= HERO ======= */
 .hero {
   display: flex;
-  width: auto;
   min-height: 600px;
   background-color: #2f303a;
   padding: 50px 0;
@@ -192,9 +191,8 @@ button {
 
 .hero-container {
   margin: auto;
-  max-width: 1200px;
+  max-width: 726px;
   padding: 0 15px;
-  min-height: 600px;
   text-align: center;
 }
 
